@@ -3,7 +3,7 @@ My name is Kacper, I come from Poland. I learn web development since 2018 and I 
 
 ## Technologies I use
 
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=555555) ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=555555) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=555555) ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=555555) ![](https://img.shields.io/badge/MaterialUI-informational?style=flat&logo=Material-UI&logoColor=white&color=555555) 
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=555555) ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=555555) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=555555) ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=555555) ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=555555) ![](https://img.shields.io/badge/MaterialUI-informational?style=flat&logo=Material-UI&logoColor=white&color=555555) 
 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=555555) ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=555555)
 
