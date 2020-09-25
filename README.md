@@ -2,7 +2,10 @@
 My name is Kacper, I come from Poland. I learn web development since 2018 and I want to become a professional full-stack developer.
 
 ## Technologies I use
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=555555) ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=555555) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=555555)
+
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=555555)
+
 
 
 ## Tools I use
