@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Kacper, I come from Poland. I learn web development since 2018 and I want to become a professional full-stack developer.
+My name is Kacper, I come from Poland. I learn web development since 2018 and I want to become a professional full-stack typescript developer.
 
 ## Technologies I use
 
@@ -17,3 +17,4 @@ My name is Kacper, I come from Poland. I learn web development since 2018 and I 
 
 ![](https://img.shields.io/badge/PackageManager-NPM-informational?style=flat&logo=NPM&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/PackageManager-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Bundler-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Linter-ESLint-informational?style=flat&logo=ESLint&logoColor=white&color=2bbc8a)
