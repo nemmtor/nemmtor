@@ -9,6 +9,8 @@ My name is Kacper, I come from Poland. I learn web development since 2018 and I 
 
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=555555) ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Node.js&logoColor=white&color=555555) ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=555555) ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=555555)
 
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=555555)
+
 
 
 ## Tools
