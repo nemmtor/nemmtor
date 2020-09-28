@@ -3,9 +3,9 @@
 # Hi there 👋
 My name is Kacper, I come from Poland. I learn web development since 2018 and I want to become a professional full-stack typescript developer.
 
-Feel free to contact me on [Linkedin](https://www.linkedin.com/in/kacper-witas-3a70a617b/) or just send me an [email](mailto:kacper0witas@gmail.com)
+Feel free to contact me on [Linkedin](https://www.linkedin.com/in/kacper-witas-3a70a617b/) or just send me an [email](mailto:kacper0witas@gmail.com).
 
-Also check out my [portfolio](https://nemmtor.github.io)
+Also check out my [portfolio](https://nemmtor.github.io).
 
 ## Technologies
 
