@@ -7,7 +7,7 @@ Feel free to contact me on [Linkedin](https://www.linkedin.com/in/kacper-witas-3
 
 Also check out my [portfolio](https://nemmtor.github.io).
 
-## Technologies
+## Technologies 💻
 
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=555555) ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=555555) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=555555) ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=555555) ![](https://img.shields.io/badge/MaterialUI-informational?style=flat&logo=Material-UI&logoColor=white&color=555555) 
 
@@ -19,9 +19,7 @@ Also check out my [portfolio](https://nemmtor.github.io).
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=555555)
 
-
-
-## Tools
+## Tools ⚒
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Graphics-Gimp-informational?style=flat&logo=GIMP&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Planning-Trello-informational?style=flat&logo=Trello&logoColor=white&color=2bbc8a)
 
