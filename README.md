@@ -11,13 +11,7 @@ Also check out my [portfolio](https://nemmtor.github.io).
 
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=555555) ![](https://img.shields.io/badge/CSS3/Sass-informational?style=flat&logo=CSS3&logoColor=white&color=555555) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=555555) ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=555555) 
 
-![](https://img.shields.io/badge/MaterialUI-informational?style=flat&logo=Material-UI&logoColor=white&color=555555) 
-
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=555555) ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=555555) ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=555555)
-
-![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=555555) ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Node.js&logoColor=white&color=555555) ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=555555) ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=555555)
-
-![](https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&logoColor=white&color=555555)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=555555) ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=555555) ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=555555) ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Node.js&logoColor=white&color=555555) 
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=555555)
 
