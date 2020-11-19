@@ -15,6 +15,8 @@ Also check out my [portfolio](https://nemmtor.github.io).
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=555555)
 
+![](https://img.shields.io/badge/WordPress-informational?style=flat&logo=WordPress&logoColor=white&color=555555)
+
 ## ⚒ Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Graphics-Gimp-informational?style=flat&logo=GIMP&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Planning-Trello-informational?style=flat&logo=Trello&logoColor=white&color=2bbc8a)
