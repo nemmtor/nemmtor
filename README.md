@@ -19,6 +19,8 @@ Also check out my [portfolio](https://nemmtor.github.io).
 
 ## ⚒ Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/IDE-VSCode/PhpStorm-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Planning-Trello-informational?style=flat&logo=Trello&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/IDE-VSCode/PhpStorm-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/PackageManager-Npm/Yarn-informational?style=flat&logo=NPM&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Bundler-Webpack/Parcel-informational?style=flat&logo=Webpack&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Planning-Trello-informational?style=flat&logo=Trello&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Bundler-Webpack/Parcel-informational?style=flat&logo=Webpack&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
