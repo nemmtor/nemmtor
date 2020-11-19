@@ -9,7 +9,7 @@ Also check out my [portfolio](https://nemmtor.github.io).
 
 ## 💻 Technologies
 
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=555555) ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=555555) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=555555) ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=555555) ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=555555) 
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=555555) ![](https://img.shields.io/badge/CSS3/Sass-informational?style=flat&logo=CSS3&logoColor=white&color=555555) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=555555) ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=555555) 
 
 ![](https://img.shields.io/badge/MaterialUI-informational?style=flat&logo=Material-UI&logoColor=white&color=555555) 
 
