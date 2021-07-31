@@ -6,4 +6,4 @@ My name is Kacper, I come from Poland. I learn web development since 2018 and I 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nemmtor&show_icons=true&theme=dracula&count_private=true)
 
 
-Feel free to contact me on [Linkedin](https://www.linkedin.com/in/kacper-witas-3a70a617b/) or just send me an [email](mailto:kacper0witas@gmail.com).
+Feel free to contact me on [Linkedin](https://www.linkedin.com/in/kacper-witas-3a70a617b/)
